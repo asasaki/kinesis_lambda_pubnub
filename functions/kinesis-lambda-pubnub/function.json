@@ -1,0 +1,5 @@
+{
+    "environment": {
+        "PUBNUB_CHANNEL": "kinesis_lambda_pubnub"
+    }
+}

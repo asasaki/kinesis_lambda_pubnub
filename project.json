@@ -1,0 +1,7 @@
+{
+  "name": "kinesis-lambda-pubnub",
+  "description": "",
+  "memory": 128,
+  "timeout": 5,
+  "role": "arn:aws:iam::<account_id>:role/lambda_kinesis_execution_role"
+}
